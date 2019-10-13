@@ -1,0 +1,11 @@
+.suscribir{
+	background-position: center;
+	background: url(imagenes/depositphotos_116673448-stock-photo-black-metallic-mesh-background-texture.jpg);
+	background-size: cover;
+	height: 400px;
+}
+
+.articulo-page{
+	padding: 10px 0px 20px 60px;
+
+}
